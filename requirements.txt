@@ -1,1 +1,2 @@
-riskfolio-lib==2.0.0
+riskfolio-lib>=2.0.0
+requests>=2.27.1
